@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "宇宙エンジニア",
+  "base_artist": "いとうかなこ",
+  "createdAt": "2025-12-01T10:34:51.215650Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宇宙エンジニア",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/01_宇宙エンジニア_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宇宙エンジニア",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/02_宇宙エンジニア_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "宇宙エンジニア",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/03_宇宙エンジニア_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "宇宙エンジニア(off Vocal)",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/04_宇宙エンジニア(off_Vocal)_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "宇宙エンジニア",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/05_宇宙エンジニア_Zwei.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "宇宙エンジニア",
+      "artist": "威闘華鳴乎 (いとう かなこ)",
+      "has_synced": true,
+      "path": "select/06_宇宙エンジニア_威闘華鳴乎_(いとう_かなこ).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "宇宙エンジニア",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/07_宇宙エンジニア_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "宇宙エンジニア",
+      "artist": "ITO Kanako",
+      "has_synced": true,
+      "path": "select/08_宇宙エンジニア_ITO_Kanako.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "宇宙エンジニア",
+      "artist": "Kanako Ito",
+      "has_synced": true,
+      "path": "select/09_宇宙エンジニア_Kanako_Ito.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "宇宙エンジニア(off Vocal)",
+      "artist": "Kanako Ito (いとうかなこ)",
+      "has_synced": true,
+      "path": "select/10_宇宙エンジニア(off_Vocal)_Kanako_Ito_(いとうかなこ).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "宇宙エンジニア(off Vocal)",
+      "artist": "Kanako Ito",
+      "has_synced": true,
+      "path": "select/11_宇宙エンジニア(off_Vocal)_Kanako_Ito.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "宇宙エンジニア",
+      "artist": "Kanako Ito (いとうかなこ)",
+      "has_synced": true,
+      "path": "select/12_宇宙エンジニア_Kanako_Ito_(いとうかなこ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宇宙エンジニア",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_01_宇宙エンジニア_いとう_かなこ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "宇宙エンジニア",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_02_宇宙エンジニア_いとう_かなこ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "宇宙エンジニア symphonic ver.",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_03_宇宙エンジニア_symphonic_ver._いとう_かなこ.txt"
+    }
+  ]
+}
